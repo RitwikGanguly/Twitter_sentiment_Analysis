@@ -1,3 +1,4 @@
+![Twitter Bird](https://sebastianraschka.com/images/blog/2014/twitter-wordcloud/my_twitter_wordcloud_2_small.jpg "Twitter Sentiment Analysis")
 # Twitter Sentiment Analysis
 ---
 
