@@ -19,3 +19,12 @@ Sentiment analysis, also known as opinion mining, is the process of determining 
 3) **Sentiment classification:** This is the core step where sentiment analysis techniques are applied to classify the sentiment of the text. Depending on the chosen approach (rule-based or machine learning), the sentiment of the text is determined based on predefined rules, sentiment lexicons, or by using a trained model.
 
 4) **Result interpretation:** Once the sentiment classification is performed, the results are interpreted and analyzed. This can involve aggregating sentiment scores over multiple text samples, calculating sentiment proportions, or generating visualizations to understand the sentiment distribution.
+
+---
+
+> - **The Sentiment Analysis is a UnSupervised Technique**
+> - **So can either use any one of the clustering technique(i.e. KMeans or DBSCAN) or else we have to use any ML lexical analysis technique.**
+> - **If we will choose the sentiment analysis of any social media platform (i.e Twitter, Instragram etc) then the lexical analysis technique is easy to impliment and understand**
+> - **The Most Important Sentiment analysis techniques are - TextBlob, Vader**
+> - **In this Twitter Sentiment Analysis I used TextBlob Technique**
+
